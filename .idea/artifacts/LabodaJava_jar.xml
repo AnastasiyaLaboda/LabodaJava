@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LabodaJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LabodaJava_jar</output-path>
+    <root id="archive" name="LabodaJava.jar">
+      <element id="module-output" name="LabodaJava" />
+    </root>
+  </artifact>
+</component>

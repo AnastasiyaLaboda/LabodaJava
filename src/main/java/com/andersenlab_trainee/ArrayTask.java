@@ -2,7 +2,7 @@ package com.andersenlab_trainee;
 
 import java.util.Random;
 
-public class ArrayUtils {
+public class ArrayTask {
     private static final int DIVISOR = 3;
 
     public static void fillArrayWithRandomNumbersAndPrint(int[] array) {

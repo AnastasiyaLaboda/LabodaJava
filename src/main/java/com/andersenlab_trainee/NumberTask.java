@@ -2,7 +2,7 @@ package com.andersenlab_trainee;
 
 import java.util.Scanner;
 
-public class NumberUtils {
+public class NumberTask {
     private static final String OUTPUT_MESSAGE = "Привет";
     private static final int NUMBER_TO_COMPARE_WITH = 7;
 

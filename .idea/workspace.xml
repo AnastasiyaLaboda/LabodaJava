@@ -9,7 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdfc8458-4485-488c-bc43-d910153915cd" name="Changes" comment="adding test tasks" />
+    <list default="true" id="cdfc8458-4485-488c-bc43-d910153915cd" name="Changes" comment="adding test tasks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LabodaJava_jar/LabodaJava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LabodaJava_jar/LabodaJava.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/ArrayTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/BracketSequences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/NameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/NameTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/NumberTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/andersenlab_trainee/Runner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +52,8 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.Runner">
-    <configuration name="NameUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andersenlab_trainee.NameUtils" />
+    <configuration name="NameTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andersenlab_trainee.NameTask" />
       <module name="LabodaJava" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andersenlab_trainee.NumberUtils" />
+    <configuration name="NumberTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andersenlab_trainee.NumberTask" />
       <module name="LabodaJava" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +108,8 @@
       <list>
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.NameUtils" />
-        <item itemvalue="Application.NumberUtils" />
+        <item itemvalue="Application.NameTask" />
+        <item itemvalue="Application.NumberTask" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688054140554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding test tasks">
+      <created>1688054232721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688054232721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

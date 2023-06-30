@@ -2,9 +2,9 @@ package com.andersenlab_trainee;
 
 import java.util.Scanner;
 
-import static com.andersenlab_trainee.ArrayUtils.*;
-import static com.andersenlab_trainee.NameUtils.*;
-import static com.andersenlab_trainee.NumberUtils.*;
+import static com.andersenlab_trainee.ArrayTask.*;
+import static com.andersenlab_trainee.NameTask.*;
+import static com.andersenlab_trainee.NumberTask.*;
 
 public class Runner {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package com.andersenlab_trainee;
 
 import java.util.Scanner;
 
-public class NameUtils {
+public class NameTask {
     private static final String DEFAULT_NAME = "Вячеслав";
     private static final String SUCCESS_OUTPUT_MESSAGE = "Привет, Вячеслав";
     private static final String FAILED_OUTPUT_MESSAGE = "Нет такого имени";
